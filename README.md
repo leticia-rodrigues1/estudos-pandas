@@ -55,6 +55,7 @@ estudos-pandas/
 ├── raspagem_dados_pandas
 ├── reshaping_pandas
 └── widetolong-pandas
+└── where-pandas
 ```
 
 
