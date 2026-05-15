@@ -56,7 +56,9 @@ estudos-pandas/
 ├── reshaping_pandas
 └── widetolong-pandas
 └── where-pandas
-```
+└── padronizacao_colunas_pandas
+
+
 
 
 
