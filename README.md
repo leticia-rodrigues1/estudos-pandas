@@ -58,7 +58,7 @@ estudos-pandas/
 └── where-pandas
 └── padronizacao_colunas_pandas
 └── categorias_pandas
-
+├── criando_dataframes
 
 
 
