@@ -57,6 +57,7 @@ estudos-pandas/
 └── widetolong-pandas
 └── where-pandas
 └── padronizacao_colunas_pandas
+└── categorias_pandas
 
 
 
