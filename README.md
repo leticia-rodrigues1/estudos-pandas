@@ -27,6 +27,9 @@ Aqui concentro exercícios, notebooks e exemplos desenvolvidos durante minha jor
 - Crosstab
 - Operações Vetorizadas
 - Otimização de DataFrames
+- Raspagem de dados
+- Where
+- Criação de DataFrames
 
 ### Fundamentos
 - Criação e manipulação de DataFrames
