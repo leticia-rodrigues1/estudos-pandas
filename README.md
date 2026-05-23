@@ -5,7 +5,7 @@ Repositório dedicado aos meus estudos práticos com **Pandas**, uma das princip
 Aqui concentro exercícios, notebooks e exemplos desenvolvidos durante minha jornada de aprendizado em análise de dados, explorando desde conceitos fundamentais até técnicas mais avançadas de transformação e tratamento de dados.
 
 
-### Tecnologias utilizadas
+Tecnologias utilizadas
 
 - Python
 - Pandas
@@ -14,7 +14,7 @@ Aqui concentro exercícios, notebooks e exemplos desenvolvidos durante minha jor
 - Web Scraping
 
   
-### Conteúdos abordados
+Conteúdos abordados
 
 ### Manipulação e Transformação de Dados
 - Query
@@ -61,12 +61,12 @@ estudos-pandas/
 ├── criando_dataframes
 
 
-### Objetivo
+Objetivo
 
 Este repositório faz parte da minha jornada de transição para a área de dados, reunindo práticas e estudos contínuos em Python e Pandas para desenvolvimento técnico e construção de portfólio.
 
 
-### Sobre mim
+Sobre mim
 
 Sou profissional em transição para a área de dados, com foco em análise de dados e Business Intelligence.
 
@@ -77,4 +77,4 @@ Atualmente estudando:
 - Power BI
 
 
-### Meu LinkedIn: https://www.linkedin.com/in/leticia-rodrigues-a71055147/
+Meu LinkedIn: https://www.linkedin.com/in/leticia-rodrigues-a71055147/
