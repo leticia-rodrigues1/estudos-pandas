@@ -16,7 +16,7 @@ Tecnologias utilizadas
   
 Conteúdos abordados
 
-### Manipulação e Transformação de Dados
+Manipulação e Transformação de Dados
 - Query
 - Reshaping
 - Melt
@@ -29,18 +29,18 @@ Conteúdos abordados
 - Where
 - Criação de DataFrames
 
-### Fundamentos
+Fundamentos
 - Criação e manipulação de DataFrames
 - Seleção e filtragem de dados
 - Tratamento de colunas
 - Limpeza e organização de dados
 - Leitura de arquivos CSV e Excel
 
-### Coleta de Dados
+Coleta de Dados
 - Web Scraping com Pandas
 
   
-### Estrutura do repositório
+Estrutura do repositório
 
 ```bash
 estudos-pandas/
