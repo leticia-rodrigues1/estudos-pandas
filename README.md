@@ -4,7 +4,7 @@ Repositório dedicado aos meus estudos práticos com **Pandas**, uma das princip
 
 Aqui concentro exercícios, notebooks e exemplos desenvolvidos durante minha jornada de aprendizado em análise de dados, explorando desde conceitos fundamentais até técnicas mais avançadas de transformação, limpeza e tratamento de dados.
 
----
+
 
 ###  Tecnologias Utilizadas
 
@@ -15,7 +15,7 @@ Aqui concentro exercícios, notebooks e exemplos desenvolvidos durante minha jor
 - Excel
 - Web Scraping
 
----
+
 
 ###  Conteúdos Abordados
 
@@ -43,7 +43,7 @@ Aqui concentro exercícios, notebooks e exemplos desenvolvidos durante minha jor
 ### Coleta de Dados
 - Web Scraping com Pandas
 
----
+
 
 ###  Estrutura do Repositório
 
