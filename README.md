@@ -2,21 +2,24 @@
 
 Repositório dedicado aos meus estudos práticos com **Pandas**, uma das principais bibliotecas para análise e manipulação de dados em Python.
 
-Aqui concentro exercícios, notebooks e exemplos desenvolvidos durante minha jornada de aprendizado em análise de dados, explorando desde conceitos fundamentais até técnicas mais avançadas de transformação e tratamento de dados.
+Aqui concentro exercícios, notebooks e exemplos desenvolvidos durante minha jornada de aprendizado em análise de dados, explorando desde conceitos fundamentais até técnicas mais avançadas de transformação, limpeza e tratamento de dados.
 
+---
 
-Tecnologias utilizadas
+###  Tecnologias Utilizadas
 
 - Python
 - Pandas
 - Jupyter Notebook
-- CSV 
+- CSV
+- Excel
 - Web Scraping
 
-  
-Conteúdos abordados
+---
 
-Manipulação e Transformação de Dados
+###  Conteúdos Abordados
+
+### Manipulação e Transformação de Dados
 - Query
 - Reshaping
 - Melt
@@ -25,56 +28,66 @@ Manipulação e Transformação de Dados
 - Crosstab
 - Operações Vetorizadas
 - Otimização de DataFrames
-- Raspagem de dados
 - Where
 - Criação de DataFrames
+- Padronização de Colunas
+- Categorias em Pandas
 
-Fundamentos
+### Fundamentos
 - Criação e manipulação de DataFrames
 - Seleção e filtragem de dados
 - Tratamento de colunas
 - Limpeza e organização de dados
 - Leitura de arquivos CSV e Excel
 
-Coleta de Dados
+### Coleta de Dados
 - Web Scraping com Pandas
 
-  
-Estrutura do repositório
+---
+
+###  Estrutura do Repositório
 
 ```bash
 estudos-pandas/
+├── criando_dataframes
 ├── crosstab-pandas
+├── categorias_pandas
 ├── explode-pandas
 ├── melt-pandas
 ├── operacoes_vetorizadas_pandas
 ├── otimizando_dataframe_pandas
+├── padronizacao_colunas_pandas
 ├── pandas-basics
 ├── python-pandas
 ├── query-pandas
 ├── raspagem_dados_pandas
 ├── reshaping_pandas
+├── where-pandas
 └── widetolong-pandas
-└── where-pandas
-└── padronizacao_colunas_pandas
-└── categorias_pandas
-├── criando_dataframes
+```
 
 
-Objetivo
 
-Este repositório faz parte da minha jornada de transição para a área de dados, reunindo práticas e estudos contínuos em Python e Pandas para desenvolvimento técnico e construção de portfólio.
+###  Objetivo
+
+Este repositório faz parte da minha jornada de transição para a área de dados, reunindo práticas e estudos contínuos em **Python e Pandas**, com foco no desenvolvimento técnico, consolidação do aprendizado e construção de portfólio profissional.
 
 
-Sobre mim
 
-Sou profissional em transição para a área de dados, com foco em análise de dados e Business Intelligence.
+###  Sobre Mim
 
-Atualmente estudando:
+Sou uma profissional em transição para a área de **Dados e Business Intelligence**, com experiência anterior no setor bancário e atualmente focada no desenvolvimento de habilidades analíticas e técnicas.
+
+### Atualmente estudando:
 - SQL
 - Python
 - Pandas
 - Power BI
+- Análise de Dados
 
 
-Meu LinkedIn: https://www.linkedin.com/in/leticia-rodrigues-a71055147/
+
+##  Conecte-se comigo
+
+**LinkedIn:**  
+https://www.linkedin.com/in/leticia-rodrigues-a71055147/
